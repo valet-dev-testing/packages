@@ -15,6 +15,9 @@
   "bugs": {
     "url": "https://github.com/begonaguereca/package/issues"
   },
+  "publishConfig": {
+    "@begonaguereca:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/begonaguereca/package#readme",
   "dependencies": {
     "axios": "^0.23.0"
