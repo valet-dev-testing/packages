@@ -2,6 +2,7 @@
   "name": "testing",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.23.0"
+    "axios": "^0.23.0",
+    "@begonaguereca/package": "1.0.0"
   }
 }
