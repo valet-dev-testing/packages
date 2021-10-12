@@ -9,4 +9,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: npm install
-        run: npm install @begonaguereca/package@1.0.0
+        run: npm install @begonaguereca/package@1.0.0 --registry=https://npm.pkg.github.com
